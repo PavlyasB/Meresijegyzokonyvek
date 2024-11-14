@@ -28,7 +28,7 @@ Feladata, hogy egy antenna segítségével először befogjuk az **Avasi adó to
 ## 2. Helyszín
 
 - **Koordináták:** 48°06’20”N 20°46’48”E  
-- **Antenna Típus:** Optiucm Smart HD 550  
+- **Antenna Típus:** Opticum Smart HD 550  
 - **Antenna magassága:** 1.5m  
 - **Környezet:** V3 labor, Városi körülmények között  
 - **Adó Távolsága:** 780m  
@@ -50,7 +50,7 @@ Feladata, hogy egy antenna segítségével először befogjuk az **Avasi adó to
 | Műszer neve                         | Típus           | Gyártási szám         |
 | ----------------------------------- | ---------       | -------------------   |
 | Programozható antennaerősítő-szűrő  | Johansson 6700  |                       |
-| Antenna                             | Optiucm         | Smart HD 550          |
+| Antenna                             | Opticum         | Smart HD 550          |
 | Spektrum Analizátor                 | Deviser S7200   |                       |
 
 ---
@@ -59,7 +59,7 @@ Feladata, hogy egy antenna segítségével először befogjuk az **Avasi adó to
 
 ![image]()
 
-- **Optiucm Smart HD 550Antenna**: az RF jelek vételére
+- **Opticum Smart HD 550Antenna**: az RF jelek vételére
 - **Johansson 6700 Profiler**: az RF jelek erősítésére és szűrésére
 - **Deviser S7200 Spektrum Analizátor**: az erősített és szűrt jelek vizsgálatára
 
@@ -117,7 +117,7 @@ A mérés során az alábbi problémák észlelhetők:
 
 - **Antenna elhelyezése**: Javasolt az antennát magasabb pozícióba telepíteni a jobb jelerősség érdekében, különösen az alacsonyabb frekvenciák esetében.
 - **Környezeti hatások minimalizálása**: További mérések során érdemes lenne tesztelni, hogyan befolyásolják a különböző környezeti feltételek (pl. időjárás, építészeti akadályok) a vételt.
-- **További tesztek**: Érdemes más antennatípusokat is tesztelni és összehasonlítani a jelenlegi Optiucm Smart HD 550.
+- **További tesztek**: Érdemes más antennatípusokat is tesztelni és összehasonlítani a jelenlegi Opticum Smart HD 550.
 ---
 
 ## 10. Felhasznált Források
