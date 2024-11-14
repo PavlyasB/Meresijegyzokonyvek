@@ -138,8 +138,8 @@ A mérés során az alábbi problémák észlelhetők:
 
 ## 12. Jelerősség diagramok
 
-<img src="https://erosbence27.github.io/jegyzokonyv/image/1_freki_dbuv.JPG"/>
-<img src="https://erosbence27.github.io/jegyzokonyv/image/2_freki_dbuv.JPG"/>
+<img src="https://github.com/PavlyasB/Meresijegyzokonyvek/blob/main/ERP_vs_jelszintek.png"/>
+
 
 ---
 
