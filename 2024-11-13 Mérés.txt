@@ -1,6 +1,6 @@
 CH28 - 59 dBu
 CH31 - 63 dBu
 CH35 - 65 dBu
-CH43 - 48 dBu
+CH41 - 48 dBu
 CH45 - 63 dBu
 CH48 - 60 dBu
