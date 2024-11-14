@@ -36,7 +36,7 @@ Feladata, hogy egy antenna segítségével először befogjuk az **Avasi adó to
 <details>   
   <summary> ADÓTORONY - VÉTELI HELY távolság </summary>
   
-  <img src="https://erosbence27.github.io/jegyzokonyv/image/map.png" alt="TVtorony" />
+  <img src="https://github.com/PavlyasB/Meresijegyzokonyvek/blob/main/Avas-Kando.png" alt="TVtorony" />
   
 </details>
 
@@ -57,7 +57,7 @@ Feladata, hogy egy antenna segítségével először befogjuk az **Avasi adó to
 
 ## 4. Blokkvázlat
 
-![image](image/Blokvazlat_1.PNG)
+![image]()
 
 - **Optiucm Smart HD 550Antenna**: az RF jelek vételére
 - **Johansson 6700 Profiler**: az RF jelek erősítésére és szűrésére
@@ -164,17 +164,17 @@ Az összesített mérések és következtetések alapján a **Johansson 6700 Pro
 <br>
 
 ## Bejövő jelszintek.
-<img src="https://github.com/Noel-Mercz/Meresijegyzokonyvek/blob/main/bejovojelekjo.png"/>
+<img src="https://github.com/PavlyasB/Meresijegyzokonyvek/blob/main/bejovojelekjo.png"/>
 
 <br>
 
 ## Kimenő jelszintek.
-<img src="https://github.com/Noel-Mercz/Meresijegyzokonyvek/blob/main/kimenojelszintek.png"/>
+<img src="https://github.com/PavlyasB/Meresijegyzokonyvek/blob/main/kimenojelszintek.png"/>
 
 <br>
 
 ## Sorba rendezett csatornák.
-<img src="https://github.com/Noel-Mercz/Meresijegyzokonyvek/blob/main/aliottch.png"/>
+<img src="https://github.com/PavlyasB/Meresijegyzokonyvek/blob/main/aliottch.png"/>
 
 <br>
 
