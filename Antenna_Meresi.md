@@ -55,9 +55,9 @@ Feladata, hogy egy antenna segítségével először befogjuk az **Avasi adó to
 
 | Műszer neve                         | Típus           | Gyártási szám         |
 | ----------------------------------- | ---------       | -------------------   |
-| Programozható antennaerősítő-szűrő  | Johansson 6700  |                       |
-| Antenna                             | Opticum         | Smart HD 550          |
-| Spektrum Analizátor                 | Deviser S7200   |                       |
+| Programozható antennaerősítő-szűrő  | Johansson       |   6700                |
+| Antenna                             | Opticum         |   Smart HD 550        |
+| Spektrum Analizátor                 | Deviser         |   S7200               |
 
 ---
 
