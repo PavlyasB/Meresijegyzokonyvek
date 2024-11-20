@@ -175,12 +175,12 @@ Az összesített mérések és következtetések alapján a **Johansson 6700 Pro
 <br>
 
 ## Kimenő jelszintek.
-<img src="[https://github.com/PavlyasB/Meresijegyzokonyvek/blob/main/kimenojelszintek.png](https://github.com/PavlyasB/Meresijegyzokonyvek/blob/main/7-es%20m%C3%A9r%C3%A9s/K%C3%A9pek/kimenojelszintek.png)"/>
+<img src="https://github.com/PavlyasB/Meresijegyzokonyvek/blob/main/7-es%20m%C3%A9r%C3%A9s/K%C3%A9pek/kimenojelszintek.png"/>
 
 <br>
 
 ## Sorba rendezett csatornák.
-<img src="[https://github.com/PavlyasB/Meresijegyzokonyvek/blob/main/aliottch.png](https://github.com/PavlyasB/Meresijegyzokonyvek/blob/main/7-es%20m%C3%A9r%C3%A9s/K%C3%A9pek/aliottch.png)"/>
+<img src="https://github.com/PavlyasB/Meresijegyzokonyvek/blob/main/7-es%20m%C3%A9r%C3%A9s/K%C3%A9pek/aliottch.png"/>
 
 <br>
 
