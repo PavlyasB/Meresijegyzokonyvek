@@ -186,6 +186,6 @@ Az összesített mérések és következtetések alapján a **Johansson 6700 Pro
 
 </details>
 
-**Aláírás:** Pavlyás Bence
+**Aláírás:** 
 
-**Dátum:** 2024. 11. 13.
+**Dátum:** 

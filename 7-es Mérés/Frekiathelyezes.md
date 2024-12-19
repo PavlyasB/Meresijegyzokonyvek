@@ -163,5 +163,5 @@ Az **ISKRA P2845** antenna javasolt elsődleges használatra, mivel minden frekv
 
 
 **Aláírás:**  
-Sándor Péter  
-**Dátum:** 2024. 10. 12
+
+**Dátum:** 
