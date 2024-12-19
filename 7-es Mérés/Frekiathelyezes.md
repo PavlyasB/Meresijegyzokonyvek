@@ -79,15 +79,15 @@ Az **ISKRA P2845** antenna javasolt elsődleges használatra, mivel minden frekv
     <summary>Kattins a részletekért</summary>
 
     **522hz Mért Képek:**
-    <img src="(https://github.com/PavlyasB/Meresijegyzokonyvek/blob/main/7-es%20M%C3%A9r%C3%A9s/K%C3%A9pek/1.jpg)"/>
-    <img src="(https://github.com/PavlyasB/Meresijegyzokonyvek/blob/main/7-es%20M%C3%A9r%C3%A9s/K%C3%A9pek/2.jpg)"/>
-    <img src="(https://github.com/PavlyasB/Meresijegyzokonyvek/blob/main/7-es%20M%C3%A9r%C3%A9s/K%C3%A9pek/3.jpg)"/>
+    <img src="(https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/7-es%20M%C3%A9r%C3%A9s/K%C3%A9pek/1.jpg)"/>
+    <img src="(https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/7-es%20M%C3%A9r%C3%A9s/K%C3%A9pek/2.jpg)"/>
+    <img src="(https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/7-es%20M%C3%A9r%C3%A9s/K%C3%A9pek/3.jpg)"/>
 ---
 
     **730MHz Mért Képek**
-    <img src="(https://github.com/PavlyasB/Meresijegyzokonyvek/blob/main/7-es%20M%C3%A9r%C3%A9s/K%C3%A9pek/4.jpg)"/>
-    <img src="(https://github.com/PavlyasB/Meresijegyzokonyvek/blob/main/7-es%20M%C3%A9r%C3%A9s/K%C3%A9pek/5.jpg)"/>
-    <img src=(https://github.com/PavlyasB/Meresijegyzokonyvek/blob/main/7-es%20M%C3%A9r%C3%A9s/K%C3%A9pek/6.jpg)"/>
+    <img src="(https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/7-es%20M%C3%A9r%C3%A9s/K%C3%A9pek/4.jpg)"/>
+    <img src="(https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/7-es%20M%C3%A9r%C3%A9s/K%C3%A9pek/5.jpg)"/>
+    <img src=(https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/7-es%20M%C3%A9r%C3%A9s/K%C3%A9pek/6.jpg)"/>
 ---
 
 
@@ -102,15 +102,15 @@ Az **ISKRA P2845** antenna javasolt elsődleges használatra, mivel minden frekv
     <summary>Kattins a részletekért</summary>
 
     **522hz Mért Képek:**
-    <img src="(https://github.com/PavlyasB/Meresijegyzokonyvek/blob/main/7-es%20M%C3%A9r%C3%A9s/K%C3%A9pek/7.jpg)"/>
-    <img src="(https://github.com/PavlyasB/Meresijegyzokonyvek/blob/main/7-es%20M%C3%A9r%C3%A9s/K%C3%A9pek/8.jpg)"/>
-    <img src="(https://github.com/PavlyasB/Meresijegyzokonyvek/blob/main/7-es%20M%C3%A9r%C3%A9s/K%C3%A9pek/9.jpg)"/>
+    <img src="(https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/7-es%20M%C3%A9r%C3%A9s/K%C3%A9pek/7.jpg)"/>
+    <img src="(https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/7-es%20M%C3%A9r%C3%A9s/K%C3%A9pek/8.jpg)"/>
+    <img src="(https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/7-es%20M%C3%A9r%C3%A9s/K%C3%A9pek/9.jpg)"/>
 ---
 
     **730MHz Mért Képek**
-    <img src="(https://github.com/PavlyasB/Meresijegyzokonyvek/blob/main/7-es%20M%C3%A9r%C3%A9s/K%C3%A9pek/10.jpg)"/>
-    <img src="(https://github.com/PavlyasB/Meresijegyzokonyvek/blob/main/7-es%20M%C3%A9r%C3%A9s/K%C3%A9pek/11.jpg)"/>
-    <img src="(https://github.com/PavlyasB/Meresijegyzokonyvek/blob/main/7-es%20M%C3%A9r%C3%A9s/K%C3%A9pek/12.jpg)"/>
+    <img src="(https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/7-es%20M%C3%A9r%C3%A9s/K%C3%A9pek/10.jpg)"/>
+    <img src="(https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/7-es%20M%C3%A9r%C3%A9s/K%C3%A9pek/11.jpg)"/>
+    <img src="(https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/7-es%20M%C3%A9r%C3%A9s/K%C3%A9pek/12.jpg)"/>
 ---
 
   
@@ -124,15 +124,15 @@ Az **ISKRA P2845** antenna javasolt elsődleges használatra, mivel minden frekv
     <summary>Kattins a részletekért</summary>
 
     **522Mhz Mért Képek:**
-    <img src="(https://github.com/PavlyasB/Meresijegyzokonyvek/blob/main/7-es%20M%C3%A9r%C3%A9s/K%C3%A9pek/13.jpg)"/>
-    <img src="(https://github.com/PavlyasB/Meresijegyzokonyvek/blob/main/7-es%20M%C3%A9r%C3%A9s/K%C3%A9pek/14.jpg)"/>
-    <img src="(https://github.com/PavlyasB/Meresijegyzokonyvek/blob/main/7-es%20M%C3%A9r%C3%A9s/K%C3%A9pek/15.jpg)"/>
+    <img src="(https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/7-es%20M%C3%A9r%C3%A9s/K%C3%A9pek/13.jpg)"/>
+    <img src="(https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/7-es%20M%C3%A9r%C3%A9s/K%C3%A9pek/14.jpg)"/>
+    <img src="(https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/7-es%20M%C3%A9r%C3%A9s/K%C3%A9pek/15.jpg)"/>
 ---
 
     **730MHz Mért Képek**
-    <img src="(https://github.com/PavlyasB/Meresijegyzokonyvek/blob/main/7-es%20M%C3%A9r%C3%A9s/K%C3%A9pek/16.jpg)"/>
-    <img src="(https://github.com/PavlyasB/Meresijegyzokonyvek/blob/main/7-es%20M%C3%A9r%C3%A9s/K%C3%A9pek/17.jpg)"/>
-    <img src="(https://github.com/PavlyasB/Meresijegyzokonyvek/blob/main/7-es%20M%C3%A9r%C3%A9s/K%C3%A9pek/18.jpg)"/>
+    <img src="(https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/7-es%20M%C3%A9r%C3%A9s/K%C3%A9pek/16.jpg)"/>
+    <img src="(https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/7-es%20M%C3%A9r%C3%A9s/K%C3%A9pek/17.jpg)"/>
+    <img src="(https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/7-es%20M%C3%A9r%C3%A9s/K%C3%A9pek/18.jpg)"/>
 ---
 
 
