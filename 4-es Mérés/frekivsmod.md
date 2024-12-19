@@ -77,8 +77,8 @@ Az alábbi táblázatban összefoglaljuk a mérések eredményeit különböző 
 
 
 ## 8. Diagramm
-mérési diagram 
-<img src="https://github.com/user-attachments/assets/273fd5e1-7825-488c-9aeb-4f2d756d3d7e"/>
+- Mérési Diagramm
+<img src="https://github.com/PavlyasB/Meresijegyzokonyvek/blob/main/4-es%20M%C3%A9r%C3%A9s/K%C3%A9pek/1"/>
 
 
 ---
@@ -95,31 +95,31 @@ mérési diagram
 
 <br>
 
-<img src="https://github.com/user-attachments/assets/51f72b17-a5ec-49cc-a80b-c8b0cdf96a61"/>
+<img src="https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/4-es%20M%C3%A9r%C3%A9s/K%C3%A9pek/2.jpg"/>
 
 <br>
 
-<img src="https://github.com/user-attachments/assets/52f96f4b-f96c-40f8-9935-25e565455934"/>
+<img src="https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/4-es%20M%C3%A9r%C3%A9s/K%C3%A9pek/3.jpg"/>
 
 <br>
 
-<img src="https://github.com/user-attachments/assets/05516812-0421-4d1c-814e-06d08416e90c"/>
+<img src="https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/4-es%20M%C3%A9r%C3%A9s/K%C3%A9pek/4.jpg"/>
 
 <br>
 
-<img src="https://github.com/user-attachments/assets/00ec0d27-c911-4389-9bc9-bf826b170bbd"/>
+<img src="https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/4-es%20M%C3%A9r%C3%A9s/K%C3%A9pek/5.jpg"/>
 
 <br>
 
-<img src="https://github.com/user-attachments/assets/ed92dc9a-a7da-4c8d-9a95-79f5ad706cf6"/>
+<img src="https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/4-es%20M%C3%A9r%C3%A9s/K%C3%A9pek/6.jpg"/>
 
 <br>
 
-<img src="https://github.com/user-attachments/assets/27e537f4-0962-4efc-8c76-b9389efa1510"/>
+<img src="https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/4-es%20M%C3%A9r%C3%A9s/K%C3%A9pek/7.jpg"/>
 
 <br>
 
-<img src="https://github.com/user-attachments/assets/dd5c841d-5108-46ee-b11c-eb30b44fe819"/>
+<img src="https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/4-es%20M%C3%A9r%C3%A9s/K%C3%A9pek/8.jpg"/>
 
 <br>
 
