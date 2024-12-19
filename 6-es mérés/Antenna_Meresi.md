@@ -144,7 +144,7 @@ A mérés során az alábbi problémák észlelhetők:
 
 ## 12. Jelerősség diagramok
 
-<img src="https://github.com/PavlyasB/Meresijegyzokonyvek/blob/main/7-es%20m%C3%A9r%C3%A9s/K%C3%A9pek/ERP_vs_jelszintek.png"/>
+<img src="https://github.com/PavlyasB/Meresijegyzokonyvek/blob/main/6-es%20m%C3%A9r%C3%A9s/K%C3%A9pek/ERP_vs_jelszintek.png"/>
 
 
 ---
@@ -170,17 +170,17 @@ Az összesített mérések és következtetések alapján a **Johansson 6700 Pro
 <br>
 
 ## Bejövő jelszintek.
-<img src="https://github.com/PavlyasB/Meresijegyzokonyvek/blob/main/7-es%20m%C3%A9r%C3%A9s/K%C3%A9pek/bejovojelekjo.png"/>
+<img src="https://github.com/PavlyasB/Meresijegyzokonyvek/blob/main/6-es%20m%C3%A9r%C3%A9s/K%C3%A9pek/bejovojelekjo.png"/>
 
 <br>
 
 ## Kimenő jelszintek.
-<img src="https://github.com/PavlyasB/Meresijegyzokonyvek/blob/main/7-es%20m%C3%A9r%C3%A9s/K%C3%A9pek/kimenojelszintek.png"/>
+<img src="https://github.com/PavlyasB/Meresijegyzokonyvek/blob/main/6-es%20m%C3%A9r%C3%A9s/K%C3%A9pek/kimenojelszintek.png"/>
 
 <br>
 
 ## Sorba rendezett csatornák.
-<img src="https://github.com/PavlyasB/Meresijegyzokonyvek/blob/main/7-es%20m%C3%A9r%C3%A9s/K%C3%A9pek/aliottch.png"/>
+<img src="https://github.com/PavlyasB/Meresijegyzokonyvek/blob/main/6-es%20m%C3%A9r%C3%A9s/K%C3%A9pek/aliottch.png"/>
 
 <br>
 
