@@ -1,0 +1,145 @@
+# MÉRÉSI JEGYZŐKÖNYV
+
+**A mérést végző neve:** Pavlyás Bence  
+**A mérés tárgya:** Antennák teljesítményének és jelminőségének összehasonlítása  
+**A mérés száma:** 6. mérés  
+**A mérés dátuma:** 2024. 12. 11.    
+**A mérést vezette:** Sándor Péter  
+
+**Évfolyam:** 13. E  
+**Csoport:** GYAK 2  
+**Helyszín:** V3 Labor  
+
+---
+
+## 1. Mérés célja  
+A mérés célja három különböző típusú antenna, az **Iskra P20**, az **ISKRA P2845** és az **IKUSI FLASHD C48** teljesítményének összehasonlítása, valamint a jelszint és jelminőség (MER - Modulation Error Ratio) vizsgálata három különböző frekvencián (474 MHz, 570 MHz, és 706 MHz).
+
+---
+
+## 2. Alkalmazott mérőeszközök és készülékek  
+
+| Műszer neve                         | Típus       | Gyártási szám |
+| ----------------------------------- | ----------- | ------------- |
+| Antenna                             | Iskra       | P20, P2845    |
+| Antenna                             | IKUSI       | FLASHD C48    |
+| Spectrum Analizátor                 | Metek       | HDD           |
+
+---
+
+### 3. **Mérési helyszín és környezet**
+- **Antenna magassága**: 2 m
+- **Környezet jellemzői**: V3 labor
+- **Adó távolsága**: 15 m
+
+---
+
+## 4. Antennák teljesítménye különböző frekvenciákon
+
+|      Vételi pont     | Iskra P20 (dBm) | Iskra P2845 (dBm) | Ikusi Flash HD C48 (dBm) |
+|----------------------|-----------------|-------------------|--------------------------|
+|       V3 Labor       | -68dBm          | -69dBm            | -55dBm                   |
+|       3. emelet      | -55dBm          | -56dBm            | -56dBm                   |
+|       Hátsó udvar    | -59dBm          | -57dBm            | -51dBm                   |
+
+---
+
+## 5. Értékelés
+
+### Jelszint
+Az **ISKRA P2845** antenna mutatta a legmagasabb jelszinteket minden frekvencián, különösen a 33. csatornán (570 MHz), ahol -52,8 dBm-es eredményt produkált. Az **IKUSI FLASHD C48** szintén magas jelszintet ért el, míg az **Iskra P20** antenna a leggyengébb jelszinteket mutatta, különösen a 706 MHz-es frekvencián (-64.8 dBm).
+
+### Jelminőség (MER)
+Az **ISKRA P2845** antenna kiemelkedett a modulációs hibaarány (MER) tekintetében is, a legmagasabb értéket a 33. csatornán érte el (33.2 dB). Az **IKUSI FLASHD C48** stabil jelminőséget biztosított minden frekvencián, míg az **Iskra P20** a 706 MHz-en jelentős jelminőség romlást mutatott (19.5 dB).
+
+### Bitsebesség
+A bitsebesség értékei az **ISKRA P2845** antennánál voltak a legjobbak, különösen a 570 MHz-es csatornán, ahol akár 10 Mbps is elérhető volt. Az **IKUSI FLASHD C48** antenna szintén magas bitsebességet biztosított a nagyobb frekvenciákon, míg az **Iskra P20** gyengébb teljesítményt mutatott a magasabb frekvenciákon.
+
+---
+
+## 6. Következtetés
+Az **ISKRA P2845** antenna a legjobb teljesítményt nyújtotta mind a jelszint, mind a jelminőség és bitsebesség tekintetében, különösen a közepes frekvenciatartományban (570 MHz). Az **IKUSI FLASHD C48** stabil és megbízható választás, míg az **Iskra P20** csak alacsonyabb frekvenciákon javasolt használatra.
+
+---
+
+## 7. Javaslatok
+Az **ISKRA P2845** antenna javasolt elsődleges használatra, mivel minden frekvencián magasabb jelszintet és jobb jelminőséget biztosított. Amennyiben költséghatékonyabb megoldás szükséges, az **IKUSI FLASHD C48** is megfelelő választás lehet. Az **Iskra P20** csak alacsonyabb frekvenciákon javasolt, ahol még kielégítő teljesítményt nyújt.
+
+---
+
+## 8. P-20 Képek:
+<details>
+    <summary>Kattins a részletekért</summary>    
+
+    **474Mhz Mért Képek:**      
+
+
+---
+
+    **570MHz Mért Képek**   
+
+
+---
+
+    **706MHz Mért Képek**
+
+
+---
+
+</details>
+
+<br>
+
+## 9. P-2845 Képek:
+<details>
+
+    <summary>Kattins a részletekért</summary>    
+
+    **474Mhz Mért Képek:**      
+
+
+---
+
+    **570MHz Mért Képek**
+
+
+---
+
+    **706MHz Mért Képek**
+
+
+---
+
+</details>
+
+<br>
+
+## 10. FlashHD C-48 Képek:
+<details>
+    <summary>Kattins a részletekért</summary>         
+
+    **474Mhz Mért Képek:**    
+
+
+---
+
+    **570MHz Mért Képek**
+
+
+---
+
+    **706MHz Mért Képek**
+
+---
+
+</details>
+
+
+<br>
+
+
+
+
+**Aláírás:**  
+ 
+**Dátum:** 
