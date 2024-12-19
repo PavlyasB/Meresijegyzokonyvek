@@ -79,6 +79,7 @@ Az **ISKRA P2845** antenna javasolt elsődleges használatra, mivel minden frekv
     <summary>Kattins a részletekért</summary>
 
     **522hz Mért Képek:**
+    <br>
     <img src="https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/7-es%20M%C3%A9r%C3%A9s/K%C3%A9pek/1.jpg"/>
     <br>
     <img src="https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/7-es%20M%C3%A9r%C3%A9s/K%C3%A9pek/2.jpg"/>
@@ -87,6 +88,7 @@ Az **ISKRA P2845** antenna javasolt elsődleges használatra, mivel minden frekv
 ---
 
     **730MHz Mért Képek**
+    <br>
     <img src="https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/7-es%20M%C3%A9r%C3%A9s/K%C3%A9pek/4.jpg"/>
     <br>
     <img src="https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/7-es%20M%C3%A9r%C3%A9s/K%C3%A9pek/5.jpg"/>
@@ -106,6 +108,7 @@ Az **ISKRA P2845** antenna javasolt elsődleges használatra, mivel minden frekv
     <summary>Kattins a részletekért</summary>
 
     **522hz Mért Képek:**
+    <br>
     <img src="https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/7-es%20M%C3%A9r%C3%A9s/K%C3%A9pek/7.jpg"/>
     <br>
     <img src="https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/7-es%20M%C3%A9r%C3%A9s/K%C3%A9pek/8.jpg"/>
@@ -114,6 +117,7 @@ Az **ISKRA P2845** antenna javasolt elsődleges használatra, mivel minden frekv
 ---
 
     **730MHz Mért Képek**
+    <br>
     <img src="https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/7-es%20M%C3%A9r%C3%A9s/K%C3%A9pek/10.jpg"/>
     <br>
     <img src="https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/7-es%20M%C3%A9r%C3%A9s/K%C3%A9pek/11.jpg"/>
@@ -132,6 +136,7 @@ Az **ISKRA P2845** antenna javasolt elsődleges használatra, mivel minden frekv
     <summary>Kattins a részletekért</summary>
 
     **522Mhz Mért Képek:**
+    <br>
     <img src="https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/7-es%20M%C3%A9r%C3%A9s/K%C3%A9pek/13.jpg"/>
     <br>
     <img src="https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/7-es%20M%C3%A9r%C3%A9s/K%C3%A9pek/14.jpg"/>
@@ -140,6 +145,7 @@ Az **ISKRA P2845** antenna javasolt elsődleges használatra, mivel minden frekv
 ---
 
     **730MHz Mért Képek**
+    <br>
     <img src="https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/7-es%20M%C3%A9r%C3%A9s/K%C3%A9pek/16.jpg"/>
     <br>
     <img src="https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/7-es%20M%C3%A9r%C3%A9s/K%C3%A9pek/17.jpg"/>
