@@ -1,8 +1,8 @@
 # MÉRÉSI JEGYZŐKÖNYV
 
-**A mérést végző neve:** Oláh Bence  
+**A mérést végző neve:** Pavlyás Bence  
 **A mérés tárgya:** Antennák teljesítményének és jelminőségének összehasonlítása  
-**A mérés száma:** 5. mérés  
+**A mérés száma:** 7. mérés  
 **A mérés dátuma:** 2024. 12. 12 
 
 **A mérést vezette:** Sándor Péter  
@@ -22,7 +22,7 @@ A mérés célja három különböző típusú antenna, az **Iskra P20**, az **I
 
 | Műszer neve                         | Típus       | Gyártási szám |
 | ----------------------------------- | ----------- | ------------- |
-|  Antenna                            |    philips  |    SDV5228    |
+| Antenna                             | Philips     |    SDV5228    |
 | Programozható antennaerősítő-szűrő  | Johansson   | 8202          |
 | Antenna                             | Iskra       | P20, P2845    |
 | Antenna                             | IKUSI       | FLASHD C48    |
