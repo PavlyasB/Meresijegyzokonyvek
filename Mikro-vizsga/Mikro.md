@@ -2,7 +2,7 @@
 **Távközlési Technikus Vizsgafeladat**  
 **Feladat neve**: Komplex Távközlési Hálózat Tervezése, Telepítése és Mérése  
 **Időtartam**: 2 óra  
-**Helyszín**: [helyszín]  
+**Helyszín**: [Miskolc Kandó V3-Labor]  
 **Dátum**: [2025.01.29]
 
 ---
