@@ -58,6 +58,20 @@ A diagramot az alábbiakban csatoltam. Az IP címek megfelelő kiosztásával é
 - SINR: [18 dB]  
 - RSSI: [-54 dBm]
 
+
+**Jelerősség**: Mikrotik nRay60 Master 
+- Signal: [90]  
+- MCS: [7]  
+- Rate : [1925 Mbps]  
+- RSSI: [-49 dB]
+- Távolság: [2.18m]
+
+**Jelerősség**: Mikrotik nRay60 Slave 
+- Signal: [90]  
+- MCS: [7]  
+- Rate : [1925 Mbps]  
+- RSSI: [-49 dB]
+- Távolság: [2.18m]
 ---
 
 ### 2.2 Mikrotik nRay 60GHz antennapár beállítása
