@@ -54,10 +54,10 @@ A diagramot az alábbiakban csatoltam. Az IP címek megfelelő kiosztásával é
 
 **Kapott IP cím**: [nyilvános IP]  
 **Jelerősség**:  
-- RSRP: [érték]  
-- RSRQ: [érték]  
-- SINR: [érték]  
-- RSSI: [érték]
+- RSRP: [-81 dBm]  
+- RSRQ: [-10.0 dB]  
+- SINR: [18 dB]  
+- RSSI: [-54 dBm]
 
 ---
 
