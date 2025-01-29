@@ -52,8 +52,7 @@ A diagramot az alábbiakban csatoltam. Az IP címek megfelelő kiosztásával é
 - Mentettem a beállításokat, és ellenőriztem az állapotot.
 - Végeztem ping tesztet a külső szerverhez (8.8.8.8), és mértem a késleltetést.
 
-**Kapott IP cím**: [nyilvános IP]  
-**Jelerősség**:  
+**Jelerősség**: Mikrotik LHG18 LTE 
 - RSRP: [-81 dBm]  
 - RSRQ: [-10.0 dB]  
 - SINR: [18 dB]  
@@ -73,7 +72,7 @@ A diagramot az alábbiakban csatoltam. Az IP címek megfelelő kiosztásával é
   - Az eszközt “Slave” módban konfiguráltam, és csatlakoztattam a Master antennához.
   - Ellenőriztem a jelminőséget a **WIRELESS 60G STATUS** oldalon.
 
-**Képernyőképek**: (Csatolva)
+**Képernyőképek**: (-)
 
 ---
 
@@ -108,7 +107,7 @@ Az **iperf3** szoftvert telepítettem a laptopokra és a következő teszteket v
 - A másik laptop kliensként futott: **iperf3 -c 192.168.88.xxx**
 
 **Eredmények**:
-- A sávszélesség mért értékek: [Mbps]
+- A sávszélesség mért értékek: []
 - Az internet elérést teszteltem, és a **speedtest** alkalmazással is mértem.
 
 ---
