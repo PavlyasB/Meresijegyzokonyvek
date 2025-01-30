@@ -1,8 +1,11 @@
 # DVB-T MÉRÉSI JEGYZŐKÖNYV
 
-**Mérés helye:** Miskolci SZC Kandó Kálmán Informatikai Technikum  
+**Mérés helye:** Miskolci SZC Kandó Kálmán Informatikai Technikum 
+
 **Mérés időpontja:** 2025.01.30
+
 **Mérő műszerek:** METEK HD 24003 
+
 **Felelős személy:** Sándor Péter
 
 ## 1. Cél
