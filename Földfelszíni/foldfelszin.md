@@ -2,7 +2,7 @@
 
 **Mérés helye:** Miskolci SZC Kandó Kálmán Informatikai Technikum  
 **Mérés időpontja:** 2025.01.30
-**Mérő műszerek:** METEK HD - SV:1.17.2002 - SN: 2109010000052  
+**Mérő műszerek:** METEK HD 24003 
 **Felelős személy:** Sándor Péter
 
 ## 1. Cél
@@ -10,8 +10,7 @@ A mérés célja a DVB-T jel minőségi paramétereinek ellenőrzése a földfel
 
 ## 2. Mérési helyszín
 - **Koordináták:** 48°06’20”N 20°46’48”E  
-- **Antenna típusa:** ISKRA G2235-06 szobaantenna
-- **Antenna magassága:** 1.7 m  
+- **Antenna típusa:** ISKRA G2235-06 szobaantenna  
 - **Környezet:** V3 labor, városi környezet  
 - **Adó távolsága:** 780,08 m
 
@@ -19,18 +18,18 @@ A mérés célja a DVB-T jel minőségi paramétereinek ellenőrzése a földfel
 
 | Paraméter                     | Érték       |
 |-------------------------------|-------------|
-| Adó frekvencia                 | 666 MHz     |
+| Adó frekvencia                 | 634 MHz     |
 | Sávszélesség                   | 8 MHz       |
-| Moduláció típusa               | 64-QAM, 8K, 1/4 |
-| Jelerősség (RSSI)              | 63.8 dBu    |
-| MER (Modulation Error Ratio)   | 29.0 dB     |
-| Noise Margin                   | 12.0        |
+| Moduláció típusa               | DVBT/QPSK/8K/1/32 |
+| Jelerősség (RSSI)              | 55.4 dBu    |
+| MER (Modulation Error Ratio)   | 21.8 dB     |
+| Noise Margin                   | 18.0        |
 | Hiba nélkül vett adás időtartama | 200 sec    |
 
 ## 4. Mérési eredmények
-- **Jelerősség:** 63.8 dBu, stabil a mérés során. Az érték megfelel a DVB-T szabványoknak.
-- **Modulációs paraméterek:** A 64-QAM modulációval mért jel/zaj viszony (SNR) 12 dB körül változott, ami a megfelelő vételt biztosítja.
-- **MER:** A mért MER érték 29.0 dB volt, ami hibamentes vételt jelez.
+- **Jelerősség:** 55.4 dBu, stabil a mérés során. Az érték megfelel a DVB-T szabványoknak.
+- **Modulációs paraméterek:** A QPSK modulációval mért jel/zaj viszony (SNR) 12 dB körül változott, ami a megfelelő vételt biztosítja.
+- **MER:** A mért MER érték 21.8 dB volt, ami hibamentes vételt jelez.
 
 ## 5. Elemzés
 A mért jelerősség és modulációs paraméterek megfelelőek a DVB-T vétel biztosításához. A jel/zaj viszony és a MER értékei nem mutattak problémát, a vétel stabil volt, és a jelminőség optimális volt.
