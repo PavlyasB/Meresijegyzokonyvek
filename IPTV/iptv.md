@@ -1,4 +1,4 @@
-# Jegyzőkönyv - Távközlési technikus vizsgafeladat - DVB-T jel fejállomásba küldése és IPTV rendszeren való kiadása
+# Jegyzőkönyv - Távközlési technikus vizsgafeladat
 
 **Vizsgázó neve:** [Pavlyás Bence]  
 **Vizsgaidőpont:** [2025.02.03]  
@@ -7,50 +7,96 @@
 
 ---
 
-### 1. Előkészületek (10 perc)
+## 1. Előkészületek
 
-Ellenőriztem az összes szükséges eszközt, és biztosítottam a megfelelő munkakörnyezetet. Az adótorony adatbázisából (fmdx.hu) sikeresen kiválasztottam az Miskolc, Avasi adótorony megfelelő multiplex frekvenciáit és adási paramétereit.
+- **Eszközök ellenőrzése:**  
+  - Antenna: [Beltéri/Kültéri]  
+  - Fejállomás: LEMCO SCL-824CT  
+  - Set-top box: MAG IPTV  
+  - Mérőműszer: METEK HDD digitális TV jelmérő  
+  - Koaxiális kábelek és csatlakozók: [Használt típusok]  
+  - Hálózati eszközök: [Switch/Router típus]
 
----
-
-### 2. Antenna felszerelése és beállítása (30 perc)
-
-Beltéri antennát választottam, és optimálisan elhelyeztem a V3 labor egyik megfelelő vételi pontján. Az antenna beállítása során iránytűt és dőlésszögmérőt használtam az adótorony irányába történő pontos állításhoz. A METEK HDD mérőműszer segítségével végeztem el a finomhangolást.
-
----
-
-### 3. Kábelezés, mérési pontok kialakítása és jel bevezetése a fejállomásba (25 perc)
-
-Koaxiális kábelt és jelező osztót használtam az antenna és a fejállomás összekapcsolásához. A jelet a megfelelő bemeneti pontokra osztottam el a fejállomásba, biztosítva, hogy minden fogható multiplex bekerüljön a rendszerbe. A jelet a villamos 3 laborba vezettem, hogy az IPTV hálózaton keresztül továbbítható legyen.
-
----
-
-### 4. Fejállomás beállítása és IPTV stream konfigurálása (25 perc)
-
-Minden bemenetre megfelelő DVB-T multiplexet rendeltem hozzá. A szabadon fogható DVB-T jelet feldolgoztam, és IP streamre konvertáltam. A multicast IP tartományt sikeresen konfiguráltam, és az IPTV Set-top-box (MAG IPTV) hálózati kapcsolatát is beállítottam. A csatornák megfelelő listázása és a csatornakeresés elindítása után a stream megfelelően működött.
+- **Adótorony:** Miskolc, Avasi adótorony  
+  - Frekvencia: [Adott frekvencia]  
+  - Teljesítmény: [Adott teljesítmény]  
+  - Polarizáció: [Vízszintes/Függőleges]  
+  - Adás típusa: DVB-T  
+  - Multiplexek: [Listázott multiplexek]
 
 ---
 
-### 5. Jelszintmérés és dokumentáció (30 perc)
+## 2. Antenna felszerelése és beállítása
 
-Elvégeztem a szükséges méréseket és dokumentációkat:
+- **Antenna típusa:** [Beltéri/Kültéri]  
+- **Antenna elhelyezése:** [V3 labor vételi pontja]  
+- **Irányítás:** Iránytű és dőlésszögmérő segítségével  
+- **Beállítás:** METEK HDD mérőműszerrel finomhangolás elvégezve  
+
+---
+
+## 3. Kábelezés és mérési pontok kialakítása
+
+- **Antenna és fejállomás összekötése:**  
+  - Használt koaxiális kábel: [Típus]  
+  - Jelosztó típusa: [Használt jelosztó típusa]  
+  - Kábelezés végrehajtása a fejállomás bemeneteihez  
+
+- **Jel bevezetése a fejállomásba:**  
+  - Bemenetek: [Listázott bemenetek]  
+  - Jelek elosztása: [Részletezés]  
+
+---
+
+## 4. Fejállomás beállítása és IPTV stream konfigurálása
+
+- **Fejállomás beállításai:**  
+  - DVB-T multiplexek hozzárendelése: [Listázott multiplexek]  
+  - IP stream konvertálás: [Beállítások]  
+  - Multicast IP tartomány: [IP tartomány]  
+
+- **IPTV Set-top box beállításai:**  
+  - Hálózati kapcsolat: [Beállítási paraméterek]  
+  - Multicast IP címek: [Beállított címek]  
+  - Csatornalista: [Rögzített csatornák]
+
+---
+
+## 5. Jelszintmérés és dokumentáció
 
 - **Antenna mérések:**  
-  - Spektrum analizátor képe  
-  - Jelszintek: [Adott értékek]  
-  - Jelminőség: [Adott értékek]  
-  - Antenna pozíciók és szögek: [Megfelelő értékek]  
-  - Polarizáció: [Megfelelő beállítás]  
+  - Spektrum analizátor képe: [Csatolt képek]  
+  - Jelszintek: [dBμV értékek]  
+  - Jelminőség: [SNR - dB értékek]  
+  - Polarizáció: [Beállított értékek]  
   - Multiplex adatok: [Frekvencia, szimbólumráta, FEC]  
-  - Időjárási körülmények: [Hőmérséklet, szélsebesség]
+  - Időjárás: [Hőmérséklet, szélsebesség]  
 
 - **Fejállomás után mérések:**  
-  - Multicast IP címek ellenőrzése: [Megfelelően konfigurálva]  
-  - IPTV stream stabilitásának mérése: [Stabilitás megfelelő]  
-  - Hálózati késleltetés és csomagvesztés vizsgálata: [Eredmények]  
-  - Stream adatok rögzítése: [Rögzítve]  
+  - Multicast IP címek ellenőrzése: [Ellenőrzött címek]  
+  - IPTV stream stabilitása: [Eredmények]  
+  - Hálózati késleltetés: [Adott értékek]  
+  - Csomagvesztés: [Adott értékek]  
 
-A mérési eredményeket az alábbiak szerint rögzítettem a jegyzőkönyvben:
+---
+
+## 6. Eszköztelepítés és hálózati tesztek
+
+- **Telepített eszközök:**  
+  - VLC: [Telepítve - Verzió]  
+  - Wireshark (TShark): [Telepítve - Verzió]  
+  - FFmpeg: [Telepítve - Verzió]  
+  - iPerf3: [Telepítve - Verzió]  
+
+- **Hálózati tesztek:**  
+  - iPerf3 teszt: [Eredmények, sávszélesség]  
+  - Ping teszt: [Eredmények]  
+  - Traceroute: [Eredmények]  
+  - Wireshark csomagfigyelés: [Rögzített adatok]  
+
+---
+
+## 7. Mérési eredmények és jegyzőkönyv rögzítése
 
 - **Jelerősség:** [dBμV]  
 - **Jel-zaj viszony (SNR):** [dB]  
@@ -59,28 +105,13 @@ A mérési eredményeket az alábbiak szerint rögzítettem a jegyzőkönyvben:
 - **Csillapítás:** [dB]  
 - **Lock állapot:** [ ] Igen [ ] Nem  
 - **Hőmérséklet és időjárási körülmények:** [Adott értékek]  
-- **Multiplex adatok és frekvenciák:** [Adott értékek]  
-
-A rendszer megfelelő működése biztosított.
+- **Multiplex adatok és frekvenciák:** [Adott értékek]
 
 ---
 
-### 6. Eszköztelepítés és hálózati tesztek
+## 8. Záró megjegyzések
 
-A szükséges IPTV vizsgálati eszközöket telepítettem a **winget** csomagkezelő segítségével. Az alábbi eszközöket sikeresen telepítettem:
+A rendszer működése stabil és minden beállítás megfelelően végrehajtásra került. Az IPTV stream sikeresen konfigurálva és ellenőrizve.
 
-- VLC  
-- Wireshark (TShark)  
-- FFmpeg  
-- iPerf3  
-
-A hálózati teljesítmény és multicast forgalom tesztelése megtörtént, a megfelelő eszközökkel és parancsokkal (iperf3, ping, traceroute, Wireshark).
-
----
-
-**Jegyzőkönyv elkészítése és aláírása**
-
-A szükséges mérési adatokat és dokumentációkat megfelelően rögzítettem, és aláírtam a jegyzőkönyvet.
-
-**Aláírás:** Pavlyás Bence
+**Aláírás:** Pavlyás Bence 
 **Dátum:** [2025.02.03]
