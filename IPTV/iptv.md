@@ -1,7 +1,7 @@
 # Jegyzőkönyv - Távközlési technikus vizsgafeladat
 
-**Vizsgázó neve:** [Neved]  
-**Vizsgaidőpont:** [Időpont]  
+**Vizsgázó neve:** [Pavlyás Bence]  
+**Vizsgaidőpont:** [2025.02.03]  
 **Feladat:** DVB-T jel fejállomásba küldése és IPTV rendszeren való kiadása  
 **Időtartam:** 120 perc
 
@@ -19,9 +19,7 @@
 ## 2. Antenna beállítása
 - **Antenna típusa:** Logper
 - **Beállítás:** [Részletek]
-- **Mérési eszközök:** Iránytű, dőlésszögmérő, METEK HDD mérőműszer
-
-**Paraméterek:**  
+- **Mérési eszközök:** [Iránytű, dőlésszögmérő, METEK HDD mérőműszer
 - **Jelerősség:** 52 dBuV  
 - **Irány:** Dél-nyugat [233°]  
 - **Polarizáció:** Horizontális
@@ -58,5 +56,5 @@
 ## 7. Záró megjegyzések
 A rendszer működése megfelelő, az IPTV stream sikeresen konfigurálva.
 
-**Aláírás:** _________________________  
-**Dátum:** [Dátum]
+**Aláírás:** Pavlyás Bence  
+**Dátum:** [2025.02.03]
