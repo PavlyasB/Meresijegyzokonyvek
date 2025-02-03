@@ -1,7 +1,7 @@
 # Jegyzőkönyv - Távközlési technikus vizsgafeladat - DVB-T jel fejállomásba küldése és IPTV rendszeren való kiadása
 
-**Vizsgázó neve:** [Neved]  
-**Vizsgaidőpont:** [Időpont]  
+**Vizsgázó neve:** [Pavlyás Bence]  
+**Vizsgaidőpont:** [2025.02.03]  
 **Feladat száma:** B tétel  
 **Időtartam:** 120 perc
 
@@ -82,5 +82,5 @@ A hálózati teljesítmény és multicast forgalom tesztelése megtörtént, a m
 
 A szükséges mérési adatokat és dokumentációkat megfelelően rögzítettem, és aláírtam a jegyzőkönyvet.
 
-**Aláírás:** _________________________  
-**Dátum:** [Dátum]
+**Aláírás:** Pavlyás Bence
+**Dátum:** [2025.02.03]
