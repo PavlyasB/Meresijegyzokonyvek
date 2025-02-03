@@ -18,11 +18,9 @@
   - Hálózati eszközök: [Switch/Router típus]
 
 - **Adótorony:** Miskolc, Avasi adótorony  
-  - Frekvencia: [Adott frekvencia]  
-  - Teljesítmény: [Adott teljesítmény]  
-  - Polarizáció: [Vízszintes/Függőleges]  
+  - Frekvencia: [634 MHz]  
+  - Teljesítmény: [0,126 kw]  
   - Adás típusa: DVB-T  
-  - Multiplexek: [Listázott multiplexek]
 
 ---
 
