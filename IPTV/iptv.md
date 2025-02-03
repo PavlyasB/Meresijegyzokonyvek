@@ -12,14 +12,13 @@
 - **Fejállomás:** LEMCO SCL-824CT
 - **Set-top box:** MAG IPTV
 - **Mérőműszer:** METEK HDD digitális TV jelmérő
-- **Hálózati eszközök:** [Switch/Router típus]
+- **Hálózati eszközök:** [Switch HP Procurve 2312 J4817A /Router típus]
 
 ---
 
 ## 2. Antenna beállítása
-- **Antenna típusa:** Logper
-- **Beállítás:** [Részletek]
-- **Mérési eszközök:** [Iránytű, dőlésszögmérő, METEK HDD mérőműszer
+- **Antenna típusa:** Iskra P-20 Logper
+- **Mérési eszközök:** Iránytű, dőlésszögmérő, METEK HDD mérőműszer
 - **Jelerősség:** 52 dBuV  
 - **Irány:** Dél-nyugat [233°]  
 - **Polarizáció:** Horizontális
@@ -33,7 +32,7 @@
 ---
 
 ## 4. IPTV stream beállítása
-- **IPTV Set-top box beállítások:** Hálózati kapcsolat, multicast IP címek
+- **IPTV Set-top box beállítások:** Multicast IP címek : 239.1.1.1 - 239.1.1.40
 - **IPTV stream stabilitásának ellenőrzése:** [Eredmény]
 
 ---
