@@ -56,6 +56,12 @@
 A routerben az SSID-t átállítottam 'IPTV'-re a jelszót pedig '12345678'-ra.
 Az admin bejelentkezést átállítottam hogy a felhasználónév legyen 'admin' a jelszó '12345678'.
 A suili hálózata 100Mbps így a routernek a le és feltöltése 93Mbps.
+|Router Porjati                  | Típus       | Gyártási szám |
+| ----------------------------------- | ----------- | ------------- |
+| LAN1                                | LEMCO CONTROL| 1Gbps        |
+| LAN2                                | -           | -             |
+| LAN3                                | LEMCO IP STREAM | 1Gbps     |
+| LAN4                                | Set-Top-Box  | 100Mbps      |
 
 
 
