@@ -8,11 +8,11 @@
 ---
 
 ## 1. Eszközök ellenőrzése
-- **Antenna:** Logper
+- **Antenna:** ISKRA P-20 Logper
 - **Fejállomás:** LEMCO SCL-824CT
 - **Set-top box:** MAG IPTV
 - **Mérőműszer:** METEK HDD digitális TV jelmérő
-- **Hálózati eszközök:** [Switch HP Procurve 2312 J4817A /Router típus]
+- **Hálózati eszközök:** [Switch HP Procurve 2312 J4817A /ASUS RT-AX58U]
 
 ---
 
@@ -52,8 +52,12 @@
 
 ---
 
-## 7. Záró megjegyzések
-A rendszer működése megfelelő, az IPTV stream sikeresen konfigurálva.
+## 7. Összegzés
+A routerben az SSID-t átállítottam 'IPTV'-re a jelszót pedig '12345678'-ra.
+Az admin bejelentkezést átállítottam hogy a felhasználónév legyen 'admin' a jelszó '12345678'.
+A suili hálózata 100Mbps így a routernek a le és feltöltése 93Mbps.
+
+
 
 **Aláírás:** Pavlyás Bence  
 **Dátum:** [2025.02.03]
