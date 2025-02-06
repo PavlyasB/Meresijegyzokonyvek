@@ -88,11 +88,11 @@
   
   ![teszt2](https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/IPTV/K%C3%A9pek/vlc2.png)   
 
-    ![teszt3](https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/IPTV/K%C3%A9pek/2.PNG)      
+    ![teszt3](https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/IPTV/K%C3%A9pek/2.PNG)       
   
-  ![teszt4](https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/IPTV/K%C3%A9pek/3.PNG)   
+  ![teszt4](https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/IPTV/K%C3%A9pek/3.PNG)      
 
-    ![teszt5](https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/IPTV/K%C3%A9pek/4.PNG)      
+    ![teszt5](https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/IPTV/K%C3%A9pek/4.PNG)     
   
   ![teszt6](https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/IPTV/K%C3%A9pek/fdgfgdh.png)   
 
