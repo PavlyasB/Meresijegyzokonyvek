@@ -45,9 +45,9 @@
 
   <summary>Kép megtekintése</summary>
 
-  ![Portok](PavlyasB/Meresijegyzokonyvek/IPTV/Képek/input1-3.png)   
+  ![Portok](https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/IPTV/K%C3%A9pek/input1-3.png)     
   
-  ![Portok](PavlyasB/Meresijegyzokonyvek/IPTV/Képek/input4.png)
+  ![Portok](https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/IPTV/K%C3%A9pek/input4.png) 
 
 </details>
 
@@ -74,7 +74,7 @@
 
   <summary>Kép megtekintése</summary>
 
-  ![teszt1](PavlyasB/Meresijegyzokonyvek/IPTV/Képek/tsout.png)       
+  ![tsout](https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/IPTV/K%C3%A9pek/tsout.png)       
 
 </details>
 
@@ -84,17 +84,17 @@
 
   <summary>Kép megtekintése</summary>
 
-  ![teszt1](PavlyasB/Meresijegyzokonyvek/IPTV/Képek/VLC.png)      
+  ![teszt1](https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/IPTV/K%C3%A9pek/VLC.png)      
   
-  ![teszt2](PavlyasB/Meresijegyzokonyvek/IPTV/Képek/vlc2.png)   
+  ![teszt2](https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/IPTV/K%C3%A9pek/vlc2.png)   
 
-    ![teszt3](PavlyasB/Meresijegyzokonyvek/IPTV/Képek/its_snapshot_0001.bmp)      
+    ![teszt3](https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/IPTV/K%C3%A9pek/its_snapshot_0001.bmp)      
   
-  ![teszt4](PavlyasB/Meresijegyzokonyvek/IPTV/Képek/its_snapshot_0002.bmp)   
+  ![teszt4](https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/IPTV/K%C3%A9pek/its_snapshot_0002.bmp)   
 
-    ![teszt5](PavlyasB/Meresijegyzokonyvek/IPTV/Képek/its_snapshot_0003.bmp)      
+    ![teszt5](https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/IPTV/K%C3%A9pek/its_snapshot_0003.bmp)      
   
-  ![teszt6](PavlyasB/Meresijegyzokonyvek/IPTV/Képek/fdgfgdh.png)   
+  ![teszt6](https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/IPTV/K%C3%A9pek/fdgfgdh.png)   
 
 </details>
 
