@@ -37,18 +37,18 @@
 
 ---
 
-### 1. Lemco Portok Beállítása:
+## 5. Lemco Portok Beállítása:
 - **Bemenet 1:** Multiplex B, csatorna 35  
 - **Bemenet 2:** Miskolci Városi TV, csatorna 41  
 - **Bemenet 3:** Multiplex A, csatorna 45  
 - **Bemenet 4:** Multiplex E, csatorna 48  
 
-## 2. Lemco IP Beállítások:
+## 6. Lemco IP Beállítások:
 - **IP cím:** 192.168.1.200  
 - **Bejelentkezés:** Felhasználó: admin / Jelszó: 12345  
 - **IPTV Stream Cím:** 239.1.1.1-39  
 
-## 3. Router Beállítások:
+## 7. Router Beállítások:
 - **Router elérés:** 192.168.50.1 -> 192.168.1.1  
 - **Router Bejelentkezés:** Felhasználó: admin / Jelszó: admin12345678  
 - **SSID beállítás:** PSSWRD-IPTV, Jelszó: 12345678  
