@@ -33,7 +33,6 @@
 
 ## 4. IPTV stream beállítása
 - **IPTV Set-top box beállítások:** Multicast IP címek : 239.1.1.1 - 239.1.1.40
-- **IPTV stream stabilitásának ellenőrzése:** [Eredmény]
 
 ---
 
@@ -42,6 +41,15 @@
 - **Bemenet 2:** Miskolci Városi TV, csatorna 41  
 - **Bemenet 3:** Multiplex A, csatorna 45  
 - **Bemenet 4:** Multiplex E, csatorna 48  
+<details>
+
+  <summary>Kép megtekintése</summary>
+
+  ![Portok](PavlyasB/Meresijegyzokonyvek/IPTV/Képek/input1-3.png)   
+  
+  ![Portok](PavlyasB/Meresijegyzokonyvek/IPTV/Képek/input4.png)
+
+</details>
 
 ## 6. Lemco IP Beállítások:
 - **IP cím:** 192.168.1.200  
@@ -60,6 +68,36 @@
 | LAN2                                | -           | -             |
 | LAN3                                | LEMCO IP STREAM | 1Gbps     |
 | LAN4                                | Set-Top-Box  | 100Mbps      |
+
+## 8. A portok a tv adásokra átlettek állítva 
+<details>
+
+  <summary>Kép megtekintése</summary>
+
+  ![teszt1](PavlyasB/Meresijegyzokonyvek/IPTV/Képek/tsout.png)       
+
+</details>
+
+
+## 9. Tesztelések Eredményei képekkel:
+<details>
+
+  <summary>Kép megtekintése</summary>
+
+  ![teszt1](PavlyasB/Meresijegyzokonyvek/IPTV/Képek/VLC.png)      
+  
+  ![teszt2](PavlyasB/Meresijegyzokonyvek/IPTV/Képek/vlc2.png)   
+
+    ![teszt3](PavlyasB/Meresijegyzokonyvek/IPTV/Képek/its_snapshot_0001.bmp)      
+  
+  ![teszt4](PavlyasB/Meresijegyzokonyvek/IPTV/Képek/its_snapshot_0002.bmp)   
+
+    ![teszt5](PavlyasB/Meresijegyzokonyvek/IPTV/Képek/its_snapshot_0003.bmp)      
+  
+  ![teszt6](PavlyasB/Meresijegyzokonyvek/IPTV/Képek/fdgfgdh.png)   
+
+</details>
+
 
 
 
