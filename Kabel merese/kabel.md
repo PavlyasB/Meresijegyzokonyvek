@@ -26,20 +26,21 @@
 ## Eredmények:
 - A két különböző frekvencián (770 MHz és 802 MHz) végzett mérések során a kimeneti dBu értékek megegyeztek (90 dBu), míg a jelerősség mérésében kis eltérés mutatkozott:
   - 770 MHz-nél **87.8 dBuV, a csillapítása így 2,2 dBuV volt**.
-
+<details>
   <summary>Kép megtekintése</summary>
 
   ![770Hz](https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/Kabel%20merese/kepek/IMG_8628.jpg)    
 
-</details>
+</details> 
 
+<details>
   - 802 MHz-nél **89.3, a csillapítása így 0,7 dBuV volt dBuV**.
 
     <summary>Kép megtekintése</summary>
 
   ![802Hz](https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/Kabel%20merese/kepek/its_snapshot_0001.bmp)   
 
-</details>
+</details>  
 
 ## Összegzés:
 A készülék megfelelően működött a beállított frekvenciákon, és a mért értékek az elvárásoknak megfelelőek. A jelerősség különbség a két frekvencián kis eltérést mutat, de az RF generátor kimeneti szintje megfelelően volt beállítva mindkét frekvencián. A mérés **METEK HD** készülékkel történt, és további vizsgálatokra nincs szükség.
