@@ -36,7 +36,10 @@
  - 802 MHz-nél **89.3, a csillapítása így 0,7 dBuV volt dBuV**.
 <details>
     <summary>Kép megtekintése</summary>
-  ![802Hz](https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/Kabel%20merese/kepek/its_snapshot_0001.bmp)   
+    
+  ![802Hz](https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/Kabel%20merese/kepek/its_snapshot_0001.bmp) 
+
+
 
 </details>  
 
