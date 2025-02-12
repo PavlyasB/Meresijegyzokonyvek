@@ -41,7 +41,7 @@
 </details>  
 
 ## Összegzés:
-A készülék megfelelően működött a beállított frekvenciákon, és a mért értékek az elvárásoknak megfelelőek. A jelerősség különbség a két frekvencián kis eltérést mutat, de az RF generátor kimeneti szintje megfelelően volt beállítva mindkét frekvencián. A mérés **METEK HD** készülékkel történt, és további vizsgálatokra nincs szükség.
+A készülék megfelelően működött a beállított frekvenciákon, és a mért értékek az elvárásoknak megfelelőek. A jelerősség különbség a két frekvencián kis eltérést mutat. 
 
 **Aláírás:**  
 [Pavlyás Bence]  
