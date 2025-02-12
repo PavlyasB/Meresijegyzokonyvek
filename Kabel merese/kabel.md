@@ -25,7 +25,7 @@
 
 ## Eredmények:
 - A két különböző frekvencián (770 MHz és 802 MHz) végzett mérések során a kimeneti dBu értékek megegyeztek (90 dBu), míg a jelerősség mérésében kis eltérés mutatkozott:
-  - 770 MHz-nél **87.8 dBuV, a csillapítása így 2,2 dBuV volt**.
+ - 770 MHz-nél **87.8 dBuV, a csillapítása így 2,2 dBuV volt**.
 <details>
   <summary>Kép megtekintése</summary>
 
