@@ -18,8 +18,8 @@ Az amplitúdómoduláció (AM) vizsgálata egy fontos feladat a távközlési re
 
   <summary>Kép megtekintése</summary>
 
-  ![grf](https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/AM-Mod/kepek/GRF-1300A.jpg.webp)
-
+  <img src="https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/AM-Mod/kepek/GRF-1300A.jpg.webp" width="200" >
+  
 </details>
 
 - **GSP-730 Spektrumanalizátor**
