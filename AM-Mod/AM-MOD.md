@@ -13,8 +13,35 @@ Az amplitúdómoduláció (AM) vizsgálata egy fontos feladat a távközlési re
 
 ## 2. Használt eszközök  
 - **GRF-1300A RF és kommunikációs tréner**
+
+<details>
+
+  <summary>Kép megtekintése</summary>
+
+  ![grf](https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/AM-Mod/kepek/GRF-1300A.jpg.webp)
+
+</details>
+
 - **GSP-730 Spektrumanalizátor**
+
+<details>
+
+  <summary>Kép megtekintése</summary>
+
+  ![gsp](https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/AM-Mod/kepek/GSP-730.webp)
+
+</details>
+
 - **HMO-1002 Digitális tárolós oszcilloszkóp**
+
+
+<details>
+
+  <summary>Kép megtekintése</summary>
+
+  ![hmo](https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/AM-Mod/kepek/HMO-1002.jfif)
+
+</details>
 
 ---
 
