@@ -61,8 +61,8 @@ A következő lépéseket végeztük el a mérés előtt:
 
 - **Spektrumanalizátor mérés**:
    - A spektrum elemzése alapján a fő vivőfrekvencia 880 MHz volt. A spektrumban a két oldalcsúcs (frekvenciaváltás) és a vivőfrekvencia körüli jelszintek jól láthatóak voltak.
-   - **Jelszint**: A spektrumanalizátor szerint a jelszint értéke -10 dBm volt a vivőfrekvencián.
-   - **Sávszélesség**: A sávszélesség 200 kHz volt, amely megfelelt az elvárt értéknek 100% modulációs mélység esetén.
+   - **Jelszint**: A spektrumanalizátor szerint a jelszint értéke -32.7 dBm volt a vivőfrekvencián.
+   - **Sávszélesség**: A sávszélesség 3 MHz volt, amely megfelelt az elvárt értéknek 100% modulációs mélység esetén.
    - **Modulációs mélység**: Az 100%-os modulációs mélységet a spektrum és az oszcilloszkópon mért értékek is megerősítették.
    
 - **Oszcilloszkópos mérés**:
@@ -91,8 +91,8 @@ A következő lépéseket végeztük el a mérés előtt:
 
 - **Spektrumanalizátor mérés**:
    - A vivőfrekvencia 900 MHz-ra módosult, és a moduláló jel 500 kHz lett.
-   - **Jelszint**: A spektrumanalizátor mérése alapján a jelszint -8 dBm-ra emelkedett a vivőfrekvencián.
-   - **Sávszélesség**: A sávszélesség 250 kHz-re nőtt, mivel a moduláló jel frekvenciája is nagyobb lett.
+   - **Jelszint**: A spektrumanalizátor mérése alapján a jelszint -32.1 dBm-ra emelkedett a vivőfrekvencián.
+   - **Sávszélesség**: A sávszélesség 5 MHz-re nőtt, mivel a moduláló jel frekvenciája is nagyobb lett.
    - **Modulációs mélység**: A spektrum és oszcilloszkóp mérése alapján a modulációs mélység 63%-nak felelt meg.
 
 - **Oszcilloszkópos mérés**:
