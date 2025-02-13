@@ -40,7 +40,7 @@ A következő lépéseket végeztük el a mérés előtt:
    
 - **Oszcilloszkópos mérés**:
    - A moduláló jel amplitúdóját az oszcilloszkópon mértük.
-   - **Moduláló jel szintje (Vpp)**: A mért érték 2 Vpp volt.
+   - **Moduláló jel szintje (Vpp)**: A mért érték 1 Vpp volt.
 
 <details>
 
@@ -70,7 +70,7 @@ A következő lépéseket végeztük el a mérés előtt:
 
 - **Oszcilloszkópos mérés**:
    - A moduláló jel amplitúdóját ismét az oszcilloszkóppal mértük.
-   - **Moduláló jel szintje (Vpp)**: A mért érték 1.5 Vpp volt.
+   - **Moduláló jel szintje (Vpp)**: A mért érték 1.2 Vpp volt.
 
 <details>
 
