@@ -1,7 +1,7 @@
 # Jegyzőkönyv
 
 ## Téma: Amplitúdómoduláció vizsgálata a GRF-1300A trénerrel
-
+**Név**: [Pavlyás Bence]  
 **Dátum**: 2025. február 13.
 
 ---
@@ -41,6 +41,22 @@ A következő lépéseket végeztük el a mérés előtt:
 - **Oszcilloszkópos mérés**:
    - A moduláló jel amplitúdóját az oszcilloszkópon mértük.
    - **Moduláló jel szintje (Vpp)**: A mért érték 2 Vpp volt.
+
+<details>
+
+  <summary>Kép megtekintése</summary>
+
+  ![1](https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/AM-Mod/kepek/SCR00.bmp)
+
+</details>
+
+<details>
+
+  <summary>Kép megtekintése</summary>
+
+  ![2](https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/AM-Mod/kepek/TA01.png)
+
+</details>
    
 ---
 
@@ -56,6 +72,25 @@ A következő lépéseket végeztük el a mérés előtt:
    - A moduláló jel amplitúdóját ismét az oszcilloszkóppal mértük.
    - **Moduláló jel szintje (Vpp)**: A mért érték 1.5 Vpp volt.
 
+<details>
+
+  <summary>Kép megtekintése</summary>
+
+  ![3](https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/AM-Mod/kepek/SCR01.bmp)
+
+</details>
+
+
+<details>
+
+  <summary>Kép megtekintése</summary>
+
+  ![4](https://raw.githubusercontent.com/PavlyasB/Meresijegyzokonyvek/refs/heads/main/AM-Mod/kepek/TA02.png)
+
+</details>
+
+
+
 ---
 
 ## 5. Következtetés
@@ -69,12 +104,6 @@ A mérési eredmények alapján az AM jel vizsgálata és jellemzése sikeresen 
 
 ---
 
-## Jegyzőkönyv zárása  
-A mérési eredmények és a dokumentált adatok alapján a feladat sikeresen befejeződött.
-
----
-
 **Aláírás**  
-Név: [Buró Bence]  
-Pozíció: [A felhasználó pozíciója]  
+Név: [Pavlyás Bence]   
 Dátum: 2025. február 13.
